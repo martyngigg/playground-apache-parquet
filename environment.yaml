@@ -1,0 +1,9 @@
+name: playground-parquet
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - pandas>=1.5
+  - pyarrow>=11
